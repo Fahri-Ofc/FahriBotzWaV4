@@ -62,7 +62,7 @@ Off in web nya
 - [`Alphabot 1`](https://chat.whatsapp.com/EU890BcXjyBDkNaUT5WmYV)
 - [`Alphabot 2`](https://chat.whatsapp.com/E8NExJwIbhBJYzssfqJNsE)
 - [`Alphabot 3`](https://chat.whatsapp.com/KCSqHTky1apG7ApePsfiPy)
-- [` FahriBotz (Offcial Gc)](https://chat.whatsapp.com/BeJH7mw5pM5H8siiYyuqaO)
+- [`FahriBotz (Offcial Gc)`](https://chat.whatsapp.com/BeJH7mw5pM5H8siiYyuqaO)
 
 ## `THANKS TO`
 
